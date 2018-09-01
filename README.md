@@ -1,2 +1,2 @@
-# nemobot
-My Custom Discord Bot for the Electrolyte Community
+# NemoBot
+My Custom Discord Bot for a few servers!
